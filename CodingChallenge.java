@@ -42,7 +42,7 @@ public class CodingChallenge {
 	/* Problem #3 
 	 * 	Personally, I would really like it if Java supported multiple line strings.
 	 * 	It would be much more convenient if a block of text like this one could be stored that way.
-	 *  Then we'd be able to have paragraphs stored in a variable while coding in Java.
+	 *	Then we'd be able to have paragraphs stored in a variable while coding in Java.
 	 */
 	
 }
